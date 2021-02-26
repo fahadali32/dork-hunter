@@ -5,7 +5,6 @@ import time
 from base64 import b16decode 
 from base64 import b16encode 
 from os import linesep as endl
-from __future__ import print_function
 
 banner = ("""
     #  ▓█████▄  ▒█████   ██▀███   ██ ▄█▀    ██░ ██  █    ██  ███▄    █ ▄▄▄█████▓▓█████  ██▀███
