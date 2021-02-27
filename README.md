@@ -9,7 +9,7 @@ this .txt file for another tools...
 
 1.python scan.py</br>
 2.type some dork Ex:.php?id=</br>
-3.if you wants to those data in text file</br>
+3.if you wants to save those data into text file</br>
 4.type y </br>
 5.that's it</br>
 
