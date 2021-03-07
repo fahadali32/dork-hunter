@@ -1,1 +1,3 @@
 google
+colorama
+termcolor
