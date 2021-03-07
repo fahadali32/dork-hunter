@@ -2,10 +2,11 @@
 import os
 import sys
 import time
+from colorama import Fore, Style, init
 from base64 import b16decode 
 from base64 import b16encode 
 from os import linesep as endl
-
+init()
 banner = ("""
     #  ▓█████▄  ▒█████   ██▀███   ██ ▄█▀    ██░ ██  █    ██  ███▄    █ ▄▄▄█████▓▓█████  ██▀███
     #  ▒██▀ ██▌▒██▒  ██▒▓██ ▒ ██▒ ██▄█▒    ▓██░ ██▒ ██  ▓██▒ ██ ▀█   █ ▓  ██▒ ▓▒▓█   ▀ ▓██ ▒ ██▒
