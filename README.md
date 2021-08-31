@@ -1,3 +1,4 @@
+#dorkhunter,#dork-hunter
 # dork-hunter
 ![Screenshot](/img/shot.png)
 <h1>Dork-hunter</h1>
